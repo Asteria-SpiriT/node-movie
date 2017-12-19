@@ -1,0 +1,22 @@
+{
+  "name": "moive",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "jquery": "^3.2.1",
+    "moment": "^2.20.0",
+    "mongoose": "^4.13.7",
+    "underscore": "^1.8.3"
+  }
+}
